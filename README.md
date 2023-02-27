@@ -1,4 +1,4 @@
-# Blake's Leetcode Solutions
+# Leetcode Solutions
 
 ## Solution Strategies
 Here are some common stategies that can be used to solve LeetCode problems:
